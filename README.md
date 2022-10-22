@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abderrahim Tantaoui
-- 👀 I’m interested in Web development, focusing towards Frontend
-- 🌱 I’m currently learning Next.js and Django frameworks
+- 👋 Hi, I’m Abderrahim Tantaoui.
+- 👀 I’m interested in Web development, focusing towards Frontend.
+- 🌱 I’m currently learning Next.js and Django frameworks.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
