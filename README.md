@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abderrahim Tantaoui.
-- 👀 I’m interested in Web development, focusing on Frontend development.
+- 👀 I’m a software engineer, focusing on creating amazing experiences using Frontend technologies.
 - 🌱 I’m currently learning Next.js and Cloud technologies.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
